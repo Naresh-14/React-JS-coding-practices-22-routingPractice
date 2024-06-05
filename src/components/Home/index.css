@@ -1,0 +1,24 @@
+.home-container {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.home-img {
+  width: 200px;
+  height: 200px;
+}
+.home-name {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #551e53;
+}
+.home-description {
+  color: #555555;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
